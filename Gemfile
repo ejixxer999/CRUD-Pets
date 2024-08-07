@@ -22,7 +22,7 @@ gem 'omniauth-facebook'
 gem 'thin'
 gem 'dotenv-rails'
 
-gem 'bootstrap', '~> 4.0.0'
+gem 'bootstrap', '~> 5.0.0'
 
 
 # Use CoffeeScript for .coffee assets and views
