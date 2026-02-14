@@ -18,7 +18,7 @@ gem 'uglifier', '>= 1.3.0'
 
 #omniauth gems
 gem 'omniauth'
-gem 'omniauth-facebook'
+gem 'omniauth-facebook', '>= 6.0.0'
 gem 'thin'
 gem 'dotenv-rails'
 
